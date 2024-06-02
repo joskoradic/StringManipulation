@@ -1,5 +1,5 @@
 This project contains custom string manipulation functions.
-
+I started this project because I needed safer functions for manipulating strings 
 
 Copyright (c) <2018> <Josko Radic>
 
